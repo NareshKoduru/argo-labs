@@ -5,6 +5,7 @@ resources:
 namespace: staging
 commonAnnotations:
   supported-by: sre@example.com
+  test: koduru
 labels:
 - includeSelectors: false
   pairs:
