@@ -7,4 +7,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: naresh135/vote
-  newTag: v6
+  newTag: a7c58bb
